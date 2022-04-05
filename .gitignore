@@ -1,2 +1,23 @@
 # Project exclude paths
 /target/
+/.idea/compiler.xml
+/consoleApp.iml
+/.idea/encodings.xml
+/.idea/jarRepositories.xml
+/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml
+/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml
+/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_6_10.xml
+/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_6_10.xml
+/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_6_10.xml
+/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_6_10.xml
+/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_1_6_10.xml
+/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_junit5_1_6_10.xml
+/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_0.xml
+/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_0.xml
+/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_0.xml
+/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_0.xml
+/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/restkit/RESTKit_Setting.xml
+/.idea/vcs.xml
